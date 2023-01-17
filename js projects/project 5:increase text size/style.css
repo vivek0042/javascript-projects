@@ -1,0 +1,17 @@
+*{
+    /* background-color: aqua; */
+    box-sizing: border-box;
+}
+#classcontainer{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    /* color: black; */
+    
+    text-align: center;
+    width: 100%;
+    padding: 50px 20px;
+    position: fixed;
+}
+body{
+    height: 200vh;
+}

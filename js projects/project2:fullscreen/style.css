@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+#openbtn{
+    width: 200px;
+    padding: 20px;
+    font-size:25px;
+    font-family: cursive;
+    border-radius: 50%;
+    background-color: red;
+    top: 10%;
+    left: 50% ;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    color: #fff;
+    box-shadow: 13px 13px 13px gray;
+}
+img{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    box-shadow: 3px 3px 10px #000;
+}

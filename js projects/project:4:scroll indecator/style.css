@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container-bar{
+    width: 100%;
+    height: 20px;
+    position: fixed;
+    background: gray;
+    bottom: 0;
+
+}
+#indecator{
+    height: 70px;
+    width: 0%;
+    background: green;
+}
+.textcontainer{
+    padding: 50% 20%;
+    width: 80%;
+    margin: auto;
+}
